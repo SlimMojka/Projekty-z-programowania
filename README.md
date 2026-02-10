@@ -1,26 +1,37 @@
-# Intro-to-Programming-Projects
-This repository serves as a personal sandbox and practice ground for solidifying programming concepts, exploring new concepts, exploring new languages, and implementing algorithms from scratch.
+# Projekty z programowania
 
-These projects are primarily **self-driven exercises** designed to sharpen problem-solving skills and ensure proficiency in core programming constructs.
+To repozytorium pełni rolę osobistego środowiska testowego oraz przestrzeni do ćwiczeń,
+służącej utrwalaniu podstawowych koncepcji programistycznych, eksplorowaniu nowych
+zagadnień, poznawaniu nowych języków oraz implementowaniu algorytmów od podstaw.
 
-## 🛠️ Key Technologies & Focus Areas
+Projekty te są przede wszystkim **samodzielnymi ćwiczeniami**, których celem jest
+rozwijanie umiejętności rozwiązywania problemów oraz osiągnięcie biegłości
+w kluczowych konstrukcjach programistycznych.
 
-* **Languages:** Python, JavaScript, C++ (or list the languages you use most)
-* **Concepts:** Data Structures (Lists, Stacks, Queues), Basic Algorithms, File I/O, Object-Oriented Programming (OOP) Fundamentals.
+## 🛠️ Kluczowe technologie i obszary
 
-## 📁 Project Index
+* **Języki:** Python, JavaScript, C++ (lub inne, z których aktualnie korzystam)
+* **Koncepcje:** struktury danych (listy, stosy, kolejki), podstawowe algorytmy,
+  operacje wejścia/wyjścia na plikach, podstawy programowania obiektowego (OOP)
 
-Below is a curated list of practice projects and exercises. Each folder contains the source code and its own specific README for detailed context.
+## 📁 Indeks projektów
 
-| Project Name | Language(s) | Description | Status |
+Poniżej znajduje się wybrana lista projektów i ćwiczeń praktycznych.
+Każdy folder zawiera kod źródłowy oraz własny plik README
+opisujący szczegóły danego projektu.
+
+| Nazwa projektu | Język(i) | Opis | Status |
 | :--- | :--- | :--- | :--- |
-| **`Py-Simple-Task-Manager`** | Python | CLI application demonstrating file persistence and basic data structuring. | Ongoing |
-| **`JS-Basic-DOM-Manipulation`** | JavaScript, HTML | Small web experiments focusing on event listeners and DOM updates. | Ongoing |
-| **`C++-Data-Structure-Demos`** | C++ | Implementation of linked lists and binary search trees for practice. | Ongoing |
-| **`Algorithm-Practice-Set-01`** | Python | Solutions to introductory algorithmic problems (e.g., FizzBuzz, reverse string, simple recursion). | Ongoing |
+| **`Py-Simple-Task-Manager`** | Python | Aplikacja CLI demonstrująca trwałość danych w plikach oraz podstawowe struktury danych | W trakcie |
+| **`JS-Basic-DOM-Manipulation`** | JavaScript, HTML | Niewielkie eksperymenty webowe skupione na obsłudze zdarzeń i manipulacji DOM | W trakcie |
+| **`C++-Data-Structure-Demos`** | C++ | Implementacja list połączonych oraz drzew BST w celach ćwiczeniowych | W trakcie |
+| **`Algorithm-Practice-Set-01`** | Python | Rozwiązania podstawowych zadań algorytmicznych (np. FizzBuzz, odwracanie ciągu, prosta rekurencja) | W trakcie |
 
-## 💡 Why This Repository?
+## 💡 Dlaczego to repozytorium?
 
-This collection demonstrates my commitment to continuous learning and the ability to apply fundamental coding concepts quickly and accurately in an independent environment.
+Ta kolekcja pokazuje moje zaangażowanie w ciągłą naukę
+oraz umiejętność szybkiego i poprawnego stosowania
+podstawowych koncepcji programistycznych
+w samodzielnym środowisku pracy.
 
 ---
